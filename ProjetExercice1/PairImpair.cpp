@@ -20,11 +20,11 @@ void main() // Fonction principale (Premier bloc d'instruction)
 
 	if (nombre1 % 2 == 0) // Si le résultat de nombre1 mod 2 est égale à 0, le nomlbre est pair
 	{
-		std::cout << "Ce nombre est pair" << std::endl;
+		std::cout << nombre1 << " est pair" << std::endl;
 	}
 	else // Sinon, il est impair
 	{
-		std::cout << "Ce nombre est impair" << std::endl;
+		std::cout << nombre1 << " est impair" << std::endl;
 	}
 }
 
