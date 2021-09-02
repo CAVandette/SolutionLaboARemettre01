@@ -11,7 +11,7 @@ void main() // Fonction principale (Premier bloc d'instruction)
 
 	int nombre1; // Initialisation d'une variable de type int (entier)
 
-	std::cout << "Veuillez entrer une nombre entier pour tester la parité : ";
+	std::cout << "Veuillez entrer un nombre entier pour tester la parité : ";
 	std::cin >> nombre1;
 	// On demande à l'utilisateur d'entrer un nombre entier
 
