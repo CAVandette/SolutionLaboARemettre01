@@ -9,7 +9,7 @@ void main() // Fonction principale (Premier bloc d'instruction)
 {
 	setlocale(LC_ALL, "");
 
-	int nombre1; // Initialisation d'une variable de type int (entier)
+	int nombre1; // Déclaration d'une variable de type int (entier)
 
 	std::cout << "Veuillez entrer un nombre entier pour tester la parité : ";
 	std::cin >> nombre1;

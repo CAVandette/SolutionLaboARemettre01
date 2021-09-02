@@ -10,7 +10,7 @@ void main() // Fonction principale (premier bloc d'instruction)
 {
 	setlocale(LC_ALL, "");
 
-	int nombre1; // Initialisation de la variable à tester
+	int nombre1; // Déclaration de la variable à tester
 
 	std::cout << "Veuillez entrer un entier à 5 chiffres : ";
 	std::cin >> nombre1;
